@@ -45,8 +45,11 @@ In the Claude app, install it from the plugin directory once it's listed.
 
 ## Works well with
 
-- [Top-Down Brief](https://github.com/the-abraham-brand/top-down-brief): answer-first, professional official communications.
-- [Top-Down Startup Pitch Deck](https://github.com/the-abraham-brand/top-down-startup-pitch-deck): investor decks with research-backed, cited figures.
+All by [Abraham](https://theabrahambrand.com), and made to work together:
+
+- [My Business Brain](https://github.com/the-abraham-brand/my-business-brain) keeps what your business knows in one place, with sources, in English and Arabic, so there's a trusted record to check your documents against.
+- [Top-Down Brief](https://github.com/the-abraham-brand/top-down-brief) turns your points into clear, answer-first emails, memos and reports.
+- [Top-Down Startup Pitch Deck](https://github.com/the-abraham-brand/top-down-startup-pitch-deck) builds a research-backed investor deck.
 
 ## Credits
 
