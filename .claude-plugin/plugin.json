@@ -1,0 +1,13 @@
+{
+  "name": "top-down-verify",
+  "version": "1.0.0",
+  "description": "Top-Down Verify by Abraham: checks every claim, figure, date, name, quote, calculation and link in a document against trusted sources and the document itself, then returns a verdict, a claim ledger and corrected wording before it goes out.",
+  "author": {
+    "name": "Abraham",
+    "url": "https://theabrahambrand.com"
+  },
+  "homepage": "https://github.com/the-abraham-brand/top-down-verify",
+  "repository": "https://github.com/the-abraham-brand/top-down-verify",
+  "license": "MIT",
+  "keywords": ["top-down", "fact-check", "verification", "sources", "citations", "accuracy", "proofing", "research"]
+}
